@@ -25,8 +25,6 @@ body{
     font-family: 'Ubuntu', sans-serif;
 }
 .navbar .header-links{
-    width: 100%;
-    /* min-width: 1188px; */
     background-color: #131313;
 }
 .navbar .links{
