@@ -32,6 +32,7 @@ body{
 .navbar .links{
     width: 1188px;
     min-width: 1188px;
+    margin: 0 auto;
     text-align: right;
 }
 .navbar .links li{
