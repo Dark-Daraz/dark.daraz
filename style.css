@@ -1,0 +1,47 @@
+/* Fonts Import */
+/* Google Font Link: https://fonts.google.com/share?selection.family=Poppins:wght@400;500;600;700%7CUbuntu:wght@400;500;700 */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
+/* Fonts Import */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: #0A0A0A;
+}
+
+.max-width{
+    max-width: 1300px;
+    padding: 0 80px;
+    margin: auto;
+}
+
+.navbar{
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.navbar .header-links{
+    width: 100%;
+    /* min-width: 1188px; */
+    background-color: #131313;
+}
+.navbar .links{
+    width: 1188px;
+    min-width: 1188px;
+    text-align: right;
+}
+.navbar .links li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar .links li a{
+    color: rgb(211, 207, 202);
+    font-size: 12px;
+    font-weight: 500;
+    padding: 0 17px;
+    
+}
