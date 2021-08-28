@@ -1,51 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- linking style sheet -->
-    <link rel="stylesheet" href="style.css">
-    <!-- fontawsome link-->
-    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-    <title>Dark Daraz | Online Shopping in Pakistan: Fashion, Electronics & Books</title>
-</head>
-<body>
-    <nav class="navbar">
-        <div class="header-links">
-            <ul class="links max-width">
-                <li><a href="#" style="color:#00e7dc;">PAY MORE ON APP</a></li>
-                <li><a href="#">DARK DARAZ AFFILIATE PROGRAM</a></li>
-                <li><a href="#">SELL DARK ON DARAZ</a></li>
-                <li><a href="#">CUSTOMER NEGLECT</a></li>
-                <li><a href="#">TRACK MY DARK SECRETS</a></li>
-                <li><a href="#">LOGIN</a></li>
-                <li><a href="#">SIGNUP</a></li>
-            </ul>
-        </div>
-        <div class="logo-bar">
-            <div class="logo-bar-content max-width">
-                <div class="logo-content">
-                    <a href="#"><img src="images/dlogo.png" width="242" height="41" alt="Dark Daraz"></a>
-                </div>
-
-                <div class="nav-search">
-                    <form action="" method="GET" autocomplete="off">
-                        <div class="search-box">
-                            <div class="search-box_bar">
-                                <input type="search" id="q" name="q" placeholder="Search kar bhai" class="search-box_input" tabindex="1" value="">
-                            </div>
-                            <div class="search-box_search">
-                                <button class="search-box_button" tabindex="2" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go">SEARCH</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-
-                <div class="nav-cart">
-                    <a href="#" data-spm="darkart">
-                        <span class="cart-icon">
-                            <svg width="25px" height="22px" viewBox="0 0 25 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="25px" height="22px" viewBox="0 0 25 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                 <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
                                 <title>cart</title>
                                 <desc>Created with Sketch.</desc>
@@ -81,14 +34,3 @@
                                     </g>
                                 </g>
                               </svg>
-                        </span>
-                        <span class="cart-num" id="topActionCartNumber">0</span>
-                      </a>
-                </div>
-
-                <div class="nav-banner"></div>
-            </div>
-        </div>
-    </nav>
-</body>
-</html>
