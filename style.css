@@ -33,7 +33,7 @@ body{
 .navbar .links li{
     list-style: none;
     display: inline-block;
-    padding: 2px 0;
+    padding: 3px 0 4px 0;
 }
 .navbar .links li a{
     color: rgb(211, 207, 202);
@@ -62,7 +62,7 @@ body{
     float: left;
 }
 .navbar .nav-search{
-    width: 688px;
+    width: 500px;
     display: inline-block;
     height: 45px;
     line-height: 45px;
@@ -203,3 +203,17 @@ body{
     75%{fill:#00FF00;}
     100%{fill:#FFFF00;}
 } */
+
+.navbar .nav-banner{
+    width: 188px;
+    height: 45px;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.navbar .nav-banner a img{
+    width: 188px;
+    height: 45px;
+    display: block;
+}
