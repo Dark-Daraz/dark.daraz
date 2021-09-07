@@ -167,8 +167,8 @@ body{
     60%{color:#00FFFF;}
     70%{color:#00FF7F;}
     80%{color:#00FF00;}
-    90%{color:#7FFF00;}
-    100%{color:#FFFF00;}
+    90%{color:#FFFF00;}
+    100%{color:#ff6600;}
 }
 /* uncomment the following for better load times */
 /* @keyframes rgb-txt{
