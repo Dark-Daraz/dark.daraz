@@ -192,8 +192,8 @@ body{
     60%{fill:#00FFFF;}
     70%{fill:#00FF7F;}
     80%{fill:#00FF00;}
-    90%{fill:#7FFF00;}
-    100%{fill:#FFFF00;}
+    90%{fill:#FFFF00;}
+    100%{fill:#ff6600;}
 }
 /* uncomment the following for better load times */
 /* @keyframes glow{
